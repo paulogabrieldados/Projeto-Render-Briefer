@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: tse_analytics_raw
+    schema: public
+    tables:
+      - name: tse_analytics2
